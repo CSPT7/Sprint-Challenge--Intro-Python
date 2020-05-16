@@ -33,7 +33,7 @@ Each file has its own associated test file. To test your code, run `python [name
 
 The `cityreader` stretch goal has its own test file, `test_stretch.py`, if you want to take a stab at implementing the stretch problem.
 
-**_It's never a bad idea to take a look at the test files in order to see what each test is expecting._**
+**_It's never a bad idea to take a look at the test files in order to see what each test is expecting._**  # <-- TRUUUEE
 
 ## Minimum Viable Product
 
